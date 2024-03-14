@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Vitor Lacerda",
+  "classifications": [ "Microservice", "WebApi" ],
+  "identity": "Miceroservice.Template",
+  "name": "Microservice Template",
+  "shortName": "microservice-template",
+  "sourceName":"Microservice.Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true
+}
